@@ -1,6 +1,4 @@
- 
-console.log("Welcome to notes app. This is app.js");
-showNotes();
+ showNotes();
 
 // If user adds a note, add it to the localStorage
 let addBtn = document.getElementById("addBtn");
